@@ -29,5 +29,6 @@ We welcome your contributions to this archive! To contribute or update informati
    :header-rows: 1
    :widths: 10, 10, 20, 20, 20, 10, 10
    :stub-columns: 1
+   :class: sphinx-datatable
 
 Please see the linked sections to the left for discussion, or click the Next button below.
