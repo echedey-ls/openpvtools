@@ -110,6 +110,7 @@ htmlhelp_basename = 'openpvtoolsdoc'
 
 def setup(app):
     app.add_css_file('theme_override.css')
+    app.add_css_file('wider_text_area.css')
 
 
 # -- Options for LaTeX output ------------------------------------------------

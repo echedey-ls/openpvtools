@@ -1,0 +1,5 @@
+/* Makes the text area wider so the table at least fits in big screen sizes */
+/* Sphinx ReadTheDocs theme specific selector; max-width is 800px by default */
+.wy-nav-content {
+    max-width: unset;
+}
