@@ -170,3 +170,11 @@ texinfo_documents = [
 
 # Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {'python': ('https://docs.python.org/3/', None)}
+
+
+# -- Options for sphinx-datatables extension --------------------------------
+datatables_options = {
+    "pageLength": -1,
+    "language": {"lengthLabels": {"-1": "Show all"}},
+    "lengthMenu": [10, 25, 50, -1],
+}
